@@ -1,5 +1,5 @@
 applications:
-- name: jquilli
+- name: jquillinan
   memory: 125M
   instances: 1
   domain: mybluemix.net
