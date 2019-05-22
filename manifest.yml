@@ -1,5 +1,5 @@
 applications:
-- name: jquillinan
+- name: jquillitest
   memory: 125M
   instances: 1
   domain: mybluemix.net
